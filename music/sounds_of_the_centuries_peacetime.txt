@@ -1,0 +1,299 @@
+﻿##### Custom Peacetime
+
+
+# Beethoven - Eroica, Movement 1
+mx_mood_Beethoven_Eroica = {
+	music = "file:/music/sounds_of_the_centuries/Beethoven/Beethoven - Eroica.mp3"
+	name = "sounds_of_the_centuries_Beethoven_Eroica"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Beethoven - Moonlight Sonata, I
+mx_mood_Beethoven_Moonlight_Sonata_I = {
+	music = "file:/music/sounds_of_the_centuries/Beethoven/Beethoven - Moonlight Sonata, I.mp3"
+	name = "sounds_of_the_centuries_Beethoven_Moonlight_Sonata_I"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Beethoven - Moonlight Sonata, II
+mx_mood_Beethoven_Moonlight_Sonata_II = {
+	music = "file:/music/sounds_of_the_centuries/Beethoven/Beethoven - Moonlight Sonata, II.mp3"
+	name = "sounds_of_the_centuries_Beethoven_Moonlight_Sonata_II"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Beethoven - Moonlight Sonata, III
+mx_mood_Beethoven_Moonlight_Sonata_III = {
+	music = "file:/music/sounds_of_the_centuries/Beethoven/Beethoven - Moonlight Sonata, III.mp3"
+	name = "sounds_of_the_centuries_Beethoven_Moonlight_Sonata_III"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Beethoven - Symphony No. 5
+mx_mood_Beethoven_Symphony_5 = {
+	music = "file:/music/sounds_of_the_centuries/Beethoven/Beethoven - Symphony No.5.mp3"
+	name = "sounds_of_the_centuries_Beethoven_Symphony_5"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Beethoven - Symphony No. 9, IV, a-b
+mx_mood_Beethoven_Symphony_9_IV_ab = {
+	music = "file:/music/sounds_of_the_centuries/Beethoven/Beethoven - Symphony No.9, IV, a-b.mp3"
+	name = "sounds_of_the_centuries_Beethoven_Symphony_9_IV_ab"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Beethoven - Symphony No. 9, IV, c-j
+mx_mood_Beethoven_Symphony_9_IV_cj = {
+	music = "file:/music/sounds_of_the_centuries/Beethoven/Beethoven - Symphony No.9, IV, c-j.mp3"
+	name = "sounds_of_the_centuries_Beethoven_Symphony_9_IV_cj"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Bizet - Toreador's March
+mx_mood_Bizet_Toreadors_March = {
+	music = "file:/music/sounds_of_the_centuries/Bizet/Bizet - Toreador's March.mp3"
+	name = "sounds_of_the_centuries_Bizet_Toreadors_March"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Brahms - Requiem, III
+mx_mood_Brahms_Requiem_III = {
+	music = "file:/music/sounds_of_the_centuries/Brahms/Brahms - Requiem, III.mp3"
+	name = "sounds_of_the_centuries_Brahms_Requiem_III"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Brahms - Requiem, VI
+mx_mood_Brahms_Requiem_VI = {
+	music = "file:/music/sounds_of_the_centuries/Brahms/Brahms - Requiem, VI.mp3"
+	name = "sounds_of_the_centuries_Brahms_Requiem_VI"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Brahms - Symphony No. 4
+mx_mood_Brahms_Symphony_4 = {
+	music = "file:/music/sounds_of_the_centuries/Brahms/Brahms - Symphony No.4.mp3"
+	name = "sounds_of_the_centuries_Brahms_Symphony_4"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Chopin - Fantasie Impromptu
+mx_mood_Chopin_Fantasie_Impromptu = {
+	music = "file:/music/sounds_of_the_centuries/Chopin/Chopin - Fantasie Impromptu.mp3"
+	name = "sounds_of_the_centuries_Chopin_Fantasie_Impromptu"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Chopin - Nocturne No.2 in Eb, Op. 9 No. 2
+mx_mood_Chopin_Nocturne_2_Op_9_No_2 = {
+	music = "file:/music/sounds_of_the_centuries/Chopin/Chopin - Nocturne No. 2 In Eb, Op. 9 No. 2.mp3"
+	name = "sounds_of_the_centuries_Chopin_Nocturne_2_Op_9_No_2"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Debussy - Clair de Lune
+mx_mood_Debussy_Clair_de_Lune = {
+	music = "file:/music/sounds_of_the_centuries/Debussy/Debussy - Clair de Lune.mp3"
+	name = "sounds_of_the_centuries_Debussy_Clair_de_Lune"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Dvorak - Serenade for Strings, II
+mx_mood_Dvorak_Serenade_for_Strings_II = {
+	music = "file:/music/sounds_of_the_centuries/Dvorak/Dvorak - Serenade for Strings, II.mp3"
+	name = "sounds_of_the_centuries_Dvorak_Serenade_for_Strings_II"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Dvorak - String Quartet No. 12, IV
+mx_mood_Dvorak_String_Quartet_12_IV = {
+	music = "file:/music/sounds_of_the_centuries/Dvorak/Dvorak - String Quartet No.12, IV.mp3"
+	name = "sounds_of_the_centuries_Dvorak_String_Quartet_12_IV"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Dvorak - Symphony No. 9, II
+mx_mood_Dvorak_Symphony_9_II = {
+	music = "file:/music/sounds_of_the_centuries/Dvorak/Dvorak - Symphony No.9, II.mp3"
+	name = "sounds_of_the_centuries_Dvorak_Symphony_9_II"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Dvorak - Symphony No. 9, IV
+mx_mood_Dvorak_Symphony_9_IV = {
+	music = "file:/music/sounds_of_the_centuries/Dvorak/Dvorak - Symphony No.9, IV.mp3"
+	name = "sounds_of_the_centuries_Dvorak_Symphony_9_IV"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Elgar - Nimrod
+mx_mood_Elgar_Nimrod = {
+	music = "file:/music/sounds_of_the_centuries/Elgar/Elgar - Nimrod.mp3"
+	name = "sounds_of_the_centuries_Elgar_Nimrod"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Elgar - Pomp and Circumstance
+mx_mood_Elgar_Pomp_and_Circumstance = {
+	music = "file:/music/sounds_of_the_centuries/Elgar/Elgar - Pomp and Circumstance.mp3"
+	name = "sounds_of_the_centuries_Elgar_Pomp_and_Circumstance"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Holst - First Suite in Eb, III
+mx_mood_Holst_First_Suite_Eb_III = {
+	music = "file:/music/sounds_of_the_centuries/Holst/Holst - First Suite in Eb, III.mp3"
+	name = "sounds_of_the_centuries_Holst_First_Suite_Eb_III"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Holst - The Planets, Jupiter
+mx_mood_Holst_The_Planets_Jupiter = {
+	music = "file:/music/sounds_of_the_centuries/Holst/Holst - The Planets, Jupiter.mp3"
+	name = "sounds_of_the_centuries_Holst_The_Planets_Jupiter"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Holst - The Planets, Mars
+mx_mood_Holst_The_Planets_Mars = {
+	music = "file:/music/sounds_of_the_centuries/Holst/Holst - The Planets, Mars.mp3"
+	name = "sounds_of_the_centuries_Holst_The_Planets_Mars"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Mussorgsky - Night on Bald Mountain
+mx_mood_Mussorgsky_Night_on_Bald_Mountain = {
+	music = "file:/music/sounds_of_the_centuries/Mussorgsky/Mussorgsky - Night on Bald Mountain.mp3"
+	name = "sounds_of_the_centuries_Mussorgsky_Night_on_Bald_Mountain"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Saint-Saëns - Danse Bacchanale
+mx_mood_Saint_Saëns_Danse_Bacchanale = {
+	music = "file:/music/sounds_of_the_centuries/Saint Saens/Saint-Saëns - Bacchanale.mp3"
+	name = "sounds_of_the_centuries_Saint_Saëns_Danse_Bacchanale"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Saint-Saëns - The Swan
+mx_mood_Saint_Saëns_The_Swan = {
+	music = "file:/music/sounds_of_the_centuries/Saint Saens/Saint-Saëns - The Swan.mp3"
+	name = "sounds_of_the_centuries_Saint_Saëns_The_Swan"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Schubert - Symphony No. 8, I
+mx_mood_Schubert_Symphony_8_I = {
+	music = "file:/music/sounds_of_the_centuries/Schubert/Schubert - Symphony No.8, I.mp3"
+	name = "sounds_of_the_centuries_Schubert_Symphony_8_I"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Smetana - Moldau
+mx_mood_Smetana_Moldau = {
+	music = "file:/music/sounds_of_the_centuries/Smetana/Smetana - Moldau.mp3"
+	name = "sounds_of_the_centuries_Smetana_Moldau"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Tchaikovsky - 1812 Overture
+mx_mood_Tchaikovsky_1812_Overture = {
+	music = "file:/music/sounds_of_the_centuries/Tchaikovsky/Tchaikovsky - 1812 Overture.mp3"
+	name = "sounds_of_the_centuries_Tchaikovsky_1812_Overture"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Tchaikovsky - Swan Lake, Dance of the Little Swans
+mx_mood_Tchaikovsky_Swan_Lake_Dance_Of_The_Little_Swans = {
+	music = "file:/music/sounds_of_the_centuries/Tchaikovsky/Tchaikovsky - Swan Lake, Dance of the Little Swans.mp3"
+	name = "sounds_of_the_centuries_Tchaikovsky_Swan_Lake_Dance_Of_The_Little_Swans"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Tchaikovsky - Swan Lake
+mx_mood_Tchaikovsky_Swan_Lake = {
+	music = "file:/music/sounds_of_the_centuries/Tchaikovsky/Tchaikovsky - Swan Lake.mp3"
+	name = "sounds_of_the_centuries_Tchaikovsky_Swan_Lake"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Tchaikovsky - Waltz of the Flowers
+mx_mood_Tchaikovsky_Waltz_of_the_Flowers = {
+	music = "file:/music/sounds_of_the_centuries/Tchaikovsky/Tchaikovsky - The Nutcracker, Waltz of the Flowers.mp3"
+	name = "sounds_of_the_centuries_Tchaikovsky_Waltz_of_the_Flowers"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Wagner - Ride of the Valkyries
+mx_mood_Wagner_Ride_Of_The_Valkyries = {
+	music = "file:/music/sounds_of_the_centuries/Wagner/Wagner - Ride of the Valkyries.mp3"
+	name = "sounds_of_the_centuries_Wagner_Ride_Of_The_Valkyries"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}

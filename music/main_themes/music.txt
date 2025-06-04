@@ -1,0 +1,6 @@
+﻿##### MAINTHEME
+
+main_theme_track = {
+	music = "file:/music/custom_themes/Dvorak - Largo theme.mp3"
+	can_be_interrupted = YES
+}

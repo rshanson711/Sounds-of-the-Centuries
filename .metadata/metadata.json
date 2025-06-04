@@ -1,0 +1,12 @@
+{
+  "name": "Sounds of the Centuries",
+  "id": "",
+  "version": "1.0",
+  "supported_game_version": "1.8.*",
+  "short_description": "",
+  "tags": [],
+  "relationships": [],
+  "game_custom_data": {
+    "multiplayer_synchronized": true
+  }
+}

@@ -1,0 +1,12 @@
+﻿ sounds_of_the_centuries_trigger = {
+	always = yes
+}
+
+ sounds_of_the_centuries_peacetime_trigger = {
+	OR = {
+		 sounds_of_the_centuries_trigger = no
+		AND = {
+			is_at_war = no
+		}
+	}
+}
