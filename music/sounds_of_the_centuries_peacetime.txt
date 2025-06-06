@@ -289,6 +289,15 @@ mx_mood_Tchaikovsky_Waltz_of_the_Flowers = {
 	can_be_interrupted = yes
 }
 
+# Verdi - Grand March ('Aida')
+mx_mood_Verdi_Grand_March = {
+	music = "file:/music/sounds_of_the_centuries/Verdi/Verdi - Grand March (Aida).mp3"
+	name = "sounds_of_the_centuries_Verdi_Grand_March"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
 # Wagner - Ride of the Valkyries
 mx_mood_Wagner_Ride_Of_The_Valkyries = {
 	music = "file:/music/sounds_of_the_centuries/Wagner/Wagner - Ride of the Valkyries.mp3"

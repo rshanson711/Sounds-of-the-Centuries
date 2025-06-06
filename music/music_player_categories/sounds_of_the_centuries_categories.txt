@@ -34,6 +34,7 @@
 		"mx_mood_Tchaikovsky_Swan_Lake_Dance_Of_The_Little_Swans"
 		"mx_mood_Tchaikovsky_Swan_Lake"
 		"mx_mood_Tchaikovsky_Waltz_of_the_Flowers"
+		"mx_mood_Verdi_Grand_March"
 		"mx_mood_Wagner_Ride_Of_The_Valkyries"
 	}
 }
