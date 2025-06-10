@@ -1,0 +1,5 @@
+sound =
+{
+    name = "z_sounds_of_the_centuries"
+    file = "z_sounds_of_the_centuries.bank"
+}
