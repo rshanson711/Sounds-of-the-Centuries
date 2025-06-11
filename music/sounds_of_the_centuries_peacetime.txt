@@ -1,5 +1,13 @@
 ﻿##### Custom Peacetime
 
+# Beach - Romance for Violin and Piano, Op.23
+mx_mood_Beach_Romance_23 = {
+	music = "event:/Beach/Romance for Violin and Piano, Op. 23"
+	name = "sounds_of_the_centuries_Beach_Romance_23"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
 
 # Beethoven - Eroica, Movement 1
 mx_mood_Beethoven_Eroica = {
@@ -208,10 +216,64 @@ mx_mood_Holst_The_Planets_Mars = {
 	can_be_interrupted = yes
 }
 
+# Liszt - Hungarian Rhapsody No.2
+mx_mood_Liszt_Hungarian_Rhapsody_2 = {
+	music = "event:/Liszt/Hungarian Rhapsody No.2"
+	name = "sounds_of_the_centuries_Liszt_Hungarian_Rhapsody_2"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Liszt - Liebestraum No.3
+mx_mood_Liszt_Liebestraum_3 = {
+	music = "event:/Liszt/Liebestraum No.3"
+	name = "sounds_of_the_centuries_Liszt_Liebestraum_3"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Liszt - Waldesrauschen, S.145 No.1
+mx_mood_Liszt_Waldesrauschen_145_1 = {
+	music = "event:/Liszt/Waldesrauschen, S.145 No. 1"
+	name = "sounds_of_the_centuries_Liszt_Waldesrauschen_145_1"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Mendelssohn - The Hebrides
+mx_mood_Mendelssohn_Hebrides = {
+	music = "event:/Mendelssohn/The Hebrides"
+	name = "sounds_of_the_centuries_Mendelssohn_Hebrides"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Mendelssohn - Overture, A Midsummer Night's Dream
+mx_mood_Mendelssohn_Overture_Midsummer = {
+	music = "event:/Mendelssohn/Overture, A Midsummer Night's Dream"
+	name = "sounds_of_the_centuries_Mendelssohn_Overture_Midsummer"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
 # Mussorgsky - Night on Bald Mountain
 mx_mood_Mussorgsky_Night_on_Bald_Mountain = {
 	music = "event:/Mussorgsky/Night on Bald Mountain"
 	name = "sounds_of_the_centuries_Mussorgsky_Night_on_Bald_Mountain"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Rimsky-Korsakov - The Kalandar Prince
+mx_mood_Rimsky_Korsakov_Kalandar_Prince = {
+	music = "event:/Rimsky-Korsakov/The Kalandar Prince"
+	name = "sounds_of_the_centuries_Rimsky_Korsakov_Kalandar_Prince"
 	pause_factor = 0
 	mood = yes
 	can_be_interrupted = yes
@@ -244,10 +306,46 @@ mx_mood_Schubert_Symphony_8_I = {
 	can_be_interrupted = yes
 }
 
+# Sibelius - Finlandia
+mx_mood_Sibelius_Finlandia = {
+	music = "event:/Sibelius/Finlandia"
+	name = "sounds_of_the_centuries_Sibelius_Finlandia"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
 # Smetana - Moldau
 mx_mood_Smetana_Moldau = {
 	music = "event:/Smetana/Moldau"
 	name = "sounds_of_the_centuries_Smetana_Moldau"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Sousa - The Fairest of the Fair
+mx_mood_Sousa_Fairest = {
+	music = "event:/Sousa/The Fairest of the Fair"
+	name = "sounds_of_the_centuries_Sousa_Fairest"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Sousa - Hands Across the Sea
+mx_mood_Sousa_Hands = {
+	music = "event:/Sousa/Hands Across the Sea"
+	name = "sounds_of_the_centuries_Sousa_Hands"
+	pause_factor = 0
+	mood = yes
+	can_be_interrupted = yes
+}
+
+# Sousa - The Thunderer
+mx_mood_Sousa_Thunderer = {
+	music = "event:/Sousa/The Thunderer"
+	name = "sounds_of_the_centuries_Sousa_Thunderer"
 	pause_factor = 0
 	mood = yes
 	can_be_interrupted = yes
